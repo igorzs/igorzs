@@ -7,4 +7,5 @@
 - 📘 Estudando: ReactJS, Node.js, React Native.    
 - 📫 igorzollimsilveira@gmail.com
 
-<center>Chega Mais!!</center>
+
+Chega Mais!
