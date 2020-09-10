@@ -1,8 +1,10 @@
 ### Olá amigos! 👋
-✅ Sou um Mobile Web Development ✅   
+✅ Sou Desenvolvedor Web Mobile ✅   
 
 - 🚀 Buscando novos desafios no desenvolvimento web e mobile.   
 - ⚡  Buscando me especializar academicamente na área de DevOps.
 - 💻 Minha stack: HTML, CSS, JavaScript e WordPress.   
 - 📘 Estudando: ReactJS, Node.js, React Native.    
-- 📫 igorzollim341@gmail.com 
+- 📫 igorzollimsilveira@gmail.com
+
+<center>Chega Mais!!</center>
