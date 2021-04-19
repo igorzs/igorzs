@@ -10,7 +10,7 @@
 </p>
 <!--[END]-->
 
-Sou Desenvolvedor Web e mobile:<br/>
+Sou Desenvolvedor Web e mobile:
 🚀 Buscando novos desafios no desenvolvimento web e mobile. <br/>  
 ⚡ Buscando me especializar academicamente na área de DevOps.<br/>
 💻 Minha stack: HTML, CSS, JavaScript e WordPress. <br/>
