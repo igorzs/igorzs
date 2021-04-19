@@ -7,6 +7,7 @@
 <a href="https://github.com/igorzs/"><img src="https://img.shields.io/badge/-Igorzs-2978b5?style=flat-square&logo=Github&logoColor=white&link=https://github.com/igorzs/"/></a>
 <a href="https://www.facebook.com/igor.zollim/"><img src="https://img.shields.io/badge/-Facebook-2978b5?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/igor.zollim/"/></a>
 <a href="https://www.instagram.com/igor.zollim/"><img src="https://img.shields.io/badge/-Instagram-2978b5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/igor.zollim/"/></a>
+<img src="https://komarev.com/ghpvc/?username=igorzs" >
 </p>
 <!--[END]-->
 
