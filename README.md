@@ -4,11 +4,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/igor-zollim/" target="_blank"><img src="https://img.shields.io/badge/-Igor%20Silveira-2978b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-zollim/"/></a>
 <a href="mailto:igorzollimsilveira@gmail.com"><img src="https://img.shields.io/badge/-igorzollimsilveira@gmail.com-2978b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorzollimsilveira@gmail.com"/></a>
-
 <a href="https://github.com/igorzs/"><img src="https://img.shields.io/badge/-Igorzs-2978b5?style=flat-square&logo=Github&logoColor=white&link=https://github.com/igorzs/"/></a>
-
 <a href="https://www.facebook.com/igor.zollim/"><img src="https://img.shields.io/badge/-Facebook-2978b5?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/igor.zollim/"/></a>
-
 <a href="https://www.instagram.com/igor.zollim/"><img src="https://img.shields.io/badge/-Instagram-2978b5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/igor.zollim/"/></a>
 </p>
 <!--[END]-->
