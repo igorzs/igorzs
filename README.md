@@ -13,13 +13,14 @@ Chega Mais!
 
 <!--ÍCONES PROGRAMAÇÃO -->
 <p align="left">
-<img src="/imgs/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="/imgs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-<img src="/imgs/javascript-original.svg" alt="javascript" width="50" height="50"/>
-<img src="/imgs/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
-<img src="/imgs/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
-<img src="/imgs/Webysther_20160423_-_Elephpant.svg" alt="php" width="50" height="50"/>
-<img src="/imgs/linux.png" alt="linux" width="50" height="50"/>
+<img style="margin: 7px;" src="/imgs/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img style="margin: 7px;" src="/imgs/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
+<img style="margin: 7px;" src="/imgs/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
+<img style="margin: 7px;" src="/imgs/Webysther_20160423_-_Elephpant.svg" alt="php" width="50" height="50"/>
+<img style="margin: 7px;" src="/imgs/WordPress.svg" alt="wordpress" width="50" height="50"/>
+<img style="margin: 7px;" src="/imgs/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img style="margin: 7px;" src="/imgs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img style="margin: 7px;" src="/imgs/linux.png" alt="linux" width="50" height="50"/>
 </p>
 <!--[END]-->
 
