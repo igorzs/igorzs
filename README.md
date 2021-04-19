@@ -12,11 +12,11 @@
 
 Sou Desenvolvedor Web e mobile:
 
-🚀 Buscando novos desafios no desenvolvimento web e mobile. <br/>  
-⚡ Buscando me especializar academicamente na área de DevOps.<br/>
-💻 Minha stack: HTML, CSS, JavaScript e WordPress. <br/>
-📘 Estudando: ReactJS, Node.js, React Native.<br/>
-📫 igorzollimsilveira@gmail.com <br/>
+🚀 Buscando novos desafios no desenvolvimento web e mobile. 
+⚡ Buscando me especializar academicamente na área de DevOps.
+💻 Minha stack: HTML, CSS, JavaScript, PHP e WordPress.
+📘 Estudando: ReactJS, Node.js, React Native.
+📫 igorzollimsilveira@gmail.com
 
 
 Chega Mais!
