@@ -17,12 +17,12 @@ Sou Desenvolvedor Web e mobile:
 ⚡ Buscando me especializar academicamente na área de DevOps.<br/>
 💻 Minha stack: HTML, CSS, JavaScript, PHP e WordPress.<br/>
 📘 Estudando: ReactJS, Node.js, React Native.<br/>
-📫 igorzollimsilveira@gmail.com<br/><br/>
+📫 igorzollimsilveira@gmail.com<br/>
 
 <a href="https://igorzs.github.io/portfolio/" >
-    <img src="/imgs/bt-portfolio.png">
+    <img alt="portfolio" src="/imgs/bt-portfolio.png" width="160" height="50">
 </a>
-
+<br/>
 
 <!--ÍCONES PROGRAMAÇÃO -->
 <p align="left">
