@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./css/styles.css">
+
 ### Olá Devs! 👋
 
 <!-- REDES SOCIAIS -->
@@ -9,7 +11,7 @@
 <a href="https://www.instagram.com/igor.zollim/"><img src="https://img.shields.io/badge/-Instagram-2978b5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/igor.zollim/"/></a>
 <img src="https://komarev.com/ghpvc/?username=igorzs" >
 </p>
-<!--[END]-->
+<!--REDES SOCIAIS [END]-->
 
 Sou Desenvolvedor Web e mobile:
 
@@ -17,10 +19,9 @@ Sou Desenvolvedor Web e mobile:
 ⚡ Buscando me especializar academicamente na área de DevOps.<br/>
 💻 Minha stack: HTML, CSS, JavaScript, PHP e WordPress.<br/>
 📘 Estudando: ReactJS, Node.js, React Native.<br/>
-📫 igorzollimsilveira@gmail.com<br/>
+📫 igorzollimsilveira@gmail.com<br/><br/>
 
-
-Chega Mais!
+<a href="https://igorzs.github.io/portfolio/" tagert="_blank" class="bt-portfolio" >ACESSAR PORTFOLIO</a>
 
 
 <!--ÍCONES PROGRAMAÇÃO -->
@@ -39,4 +40,4 @@ Chega Mais!
 <!--API GIT STATUS-->
 <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=igorzs&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" alt="relirk"/>
 <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorzs&layout=compact" />
-<!--[END]-->
+<!--API GIT STATUS [END]-->
