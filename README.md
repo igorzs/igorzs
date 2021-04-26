@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./css/styles.css">
-
 ### Olá Devs! 👋
 
 <!-- REDES SOCIAIS -->
@@ -21,7 +19,9 @@ Sou Desenvolvedor Web e mobile:
 📘 Estudando: ReactJS, Node.js, React Native.<br/>
 📫 igorzollimsilveira@gmail.com<br/><br/>
 
-<a href="https://igorzs.github.io/portfolio/" tagert="_blank" class="bt-portfolio" >ACESSAR PORTFOLIO</a>
+<a href="https://igorzs.github.io/portfolio/" >
+    <img src="/imgs/bt-portfolio.png">
+</a>
 
 
 <!--ÍCONES PROGRAMAÇÃO -->
