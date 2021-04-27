@@ -18,7 +18,7 @@ Sou Desenvolvedor Fullstack:
 📫 igorzollimsilveira@gmail.com<br/>
 
 <a href="https://igorzs.github.io/portfolio/" >
-    <img alt="portfolio" src="/imgs/portfolio-link.png" width="160" height="50">
+    <img alt="portfolio" src="/imgs/portfolio-link.png" width="180" height="50">
 </a>
 <br/>
 
