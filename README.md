@@ -17,7 +17,9 @@ Sou Desenvolvedor Fullstack:
 📘 Estudando: ReactJS, Node.js, React Native.<br/>
 📫 igorzollimsilveira@gmail.com<br/>
 
-<a href="https://igorzs.github.io/portfolio/" style="text-decoration: none;background: #2978b5;color: #fff;padding: 10px 30px;border-radius:5px;border: 2px solid #232323;" >VER PORTFÓLIO</a>
+<a href="https://igorzs.github.io/portfolio/" >
+    <img alt="portfolio" src="/imgs/portfolio-link.png" width="160" height="50">
+</a>
 <br/>
 
 <!--ÍCONES PROGRAMAÇÃO -->
