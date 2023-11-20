@@ -24,6 +24,8 @@ Techs/Frameworks: `Laravel`, `SQL`, `API REST`, `PHP`, `Azure Cloud`, `Linux`, `
 **Support Analyst - Full-Stack Developer** \
 [**Orni**](https://www.linkedin.com/company/orni-venture-builder/) • Full-Time \
 Techs/Frameworks: `WordPress`, `SQL`, `API REST`, `PHP`, `Azure Cloud`, `Web Apps`, `MVC`, `Linux Server` and others.
+
+<br/>
 <br/>
 
 <div align="center">
