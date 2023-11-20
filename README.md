@@ -32,9 +32,9 @@ I'm brazilian Full-Stack Developer
 
 <!-- REDES SOCIAIS -->
 <div align="center">
-<a href="https://www.linkedin.com/in/igor-zollim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Igor's Linkedin" /></a>
+<a href="https://www.linkedin.com/in/igor-zollim/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Igor's Linkedin" /></a>
 <a href="mailto:igorzollimsilveira@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Igor's E-Mail" /></a>
-<a href="https://www.instagram.com/igor.zollim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Igor's Instagram" /></a>
+<a href="https://www.instagram.com/igor.zollim/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Igor's Instagram" /></a>
 <img src="https://komarev.com/ghpvc/?username=igorzs&style=for-the-badge&label=PROFILE+VIEWS">
 <br>
 </div>
@@ -43,7 +43,7 @@ I'm brazilian Full-Stack Developer
 <!-- PORTFOLIO -->
 <div align="center">
     <a href="https://igorzs.github.io/portfolio/" target="_blank">
-        <img alt="Igor's Portfolio" src="https://img.shields.io/badge/-my_website-%23333?style=for-the-badge&logo=webb&logoColor=white" width="180" height="50">
+        <img alt="Igor's Portfolio" target="_blank" src="https://img.shields.io/badge/-my_website-%23333?style=for-the-badge&logo=webb&logoColor=white" width="180" height="50">
     </a>
 </div
 <!-- PORTFOLIO [END]-->
