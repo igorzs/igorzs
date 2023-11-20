@@ -1,11 +1,10 @@
 ### Hi there! 👋
 
-I'm brazilian Full-Stack Developer:
+I'm brazilian Full-Stack Developer
 
 ##### BIO
-🚀 I'm currently working at **CliniSYS**<br/>
-💻 Minha stack: HTML/CSS/JavaScript, PHP e WordPress.<br/>
-⚙️ I use: `.cs`, `.json`, `.js`, `.html`, `.css`, `.sql`, `.ts`, `.git` and a lot more! </br>
+💻 I'm currently working at **CliniSYS**<br/>
+⚙️ I use: `.cs`, `.json`, `.js`, `.html`, `.css`, `.sql`, `.php`,`.ts`, `.git` and a lot more! </br>
 📘 Learning all about **Open Source** and **DevOps** .<br/>
 📫 igorzollimsilveira@gmail.com<br/>
 💬 Ping me! Lets talk!
@@ -13,7 +12,7 @@ I'm brazilian Full-Stack Developer:
 <br/>
 
 <!--ÍCONES PROGRAMAÇÃO -->
-<p align="left">
+<div align="center">
 <img style="margin: 7px;" src="/imgs/javascript-original.svg" alt="javascript" width="50" height="50"/>
 <img style="margin: 7px;" src="/imgs/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
 <img style="margin: 7px;" src="/imgs/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
@@ -22,7 +21,7 @@ I'm brazilian Full-Stack Developer:
 <img style="margin: 7px;" src="/imgs/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 <img style="margin: 7px;" src="/imgs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 <img style="margin: 7px;" src="/imgs/linux.png" alt="linux" width="50" height="50"/>
-</p>
+</div>
 <!--[END]-->
 
 <div align="center">
@@ -35,16 +34,16 @@ I'm brazilian Full-Stack Developer:
 <div align="center">
 <a href="https://www.linkedin.com/in/igor-zollim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Igor's Linkedin" /></a>
 <a href="mailto:igorzollimsilveira@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Igor's E-Mail" /></a>
-<a href="https://www.instagram.com/igor.zollim/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Igor's Instagram" /></a>
+<a href="https://www.instagram.com/igor.zollim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Igor's Instagram" /></a>
+<img src="https://komarev.com/ghpvc/?username=igorzs&style=for-the-badge&label=PROFILE+VIEWS">
 <br>
-<img src="https://komarev.com/ghpvc/?username=igorzs" >
 </div>
 <!--REDES SOCIAIS [END]-->
 
 <!-- PORTFOLIO -->
 <div align="center">
-    <a href="https://igorzs.github.io/portfolio/" >
-        <img alt="portfolio" src="https://img.shields.io/badge/Access_My_Portfolio-orange?style=for-the-badge&cacheSeconds=3600" width="180" height="50">
+    <a href="https://igorzs.github.io/portfolio/" target="_blank">
+        <img alt="Igor's Portfolio" src="https://img.shields.io/badge/-my_website-%23333?style=for-the-badge&logo=webb&logoColor=white" width="180" height="50">
     </a>
 </div
 <!-- PORTFOLIO [END]-->
