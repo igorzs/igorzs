@@ -37,5 +37,5 @@ Sou Desenvolvedor Fullstack:
 
 <!--API GIT STATUS-->
 <img width="480px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorzs&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="relirk"/>
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorzs&layout=compact" />
+<img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igorzs&layout=compact" />
 <!--API GIT STATUS [END]-->
