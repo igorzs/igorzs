@@ -11,6 +11,21 @@ I'm brazilian Full-Stack Developer
 
 <br/>
 
+##### Latest XP
+
+[<img align="left" height="94px" width="94px" alt="Lydia" src="https://media.licdn.com/dms/image/C4D0BAQEYQkCvsFt1dA/company-logo_200_200/0/1630550704363/lydia_sistemas_inteligentes_logo?e=1708560000&v=beta&t=TiqVDwF8a33X7KPEBYbyGPu5iiuPS20zZCYr_rIIhZ0"/>](https://www.linkedin.com/company/lydia-sistemas-inteligentes/)
+
+**Full-Stack Developer** \
+[**Lydia Sistemas Inteligentes**](https://www.linkedin.com/company/lydia-sistemas-inteligentes/) • Full-Time \
+Techs/Frameworks: `Laravel`, `SQL`, `API REST`, `PHP`, `Azure Cloud`, `Linux`, `Chatbots for WhatsApp`, `Web Crawling with Selenium`, `Asterisk`, `Automatizations` and others.
+
+[<img align="left" height="94px" width="94px" alt="Orni" src="https://media.licdn.com/dms/image/D4D0BAQG3HtWGCkt5Cg/company-logo_200_200/0/1699533069828/orni_venture_builder_logo?e=1708560000&v=beta&t=YZ3QWFw5nEsCQaeWLMP5TsjM1Ehd5tOhfI_AH5Nhuwc"/>](https://www.linkedin.com/company/orni-venture-builder/)
+
+**Support Analyst - Full-Stack Developer** \
+[**Orni**](https://www.linkedin.com/company/orni-venture-builder/) • Full-Time \
+Techs/Frameworks: `WordPress`, `SQL`, `API REST`, `PHP`, `Azure Cloud`, `Web Apps`, `MVC`, `Linux Server` and others.
+<br/>
+
 <!--ÍCONES PROGRAMAÇÃO -->
 <div align="center">
 <img style="margin: 7px;" src="/imgs/javascript-original.svg" alt="javascript" width="50" height="50"/>
