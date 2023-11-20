@@ -1,25 +1,15 @@
-### Olá Devs! 👋
+### Hi there! 👋
 
-<!-- REDES SOCIAIS -->
-<p align="left">
-<a href="https://www.linkedin.com/in/igor-zollim/" target="_blank"><img src="https://img.shields.io/badge/-Igor%20Silveira-2978b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-zollim/"/></a>
-<a href="mailto:igorzollimsilveira@gmail.com"><img src="https://img.shields.io/badge/-igorzollimsilveira@gmail.com-2978b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorzollimsilveira@gmail.com"/></a>
-<a href="https://www.facebook.com/igor.zollim/"><img src="https://img.shields.io/badge/-Facebook-2978b5?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/igor.zollim/"/></a>
-<a href="https://www.instagram.com/igor.zollim/"><img src="https://img.shields.io/badge/-Instagram-2978b5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/igor.zollim/"/></a>
-<img src="https://komarev.com/ghpvc/?username=igorzs" >
-</p>
-<!--REDES SOCIAIS [END]-->
+I'm brazilian Full-Stack Developer:
 
-Sou Desenvolvedor Fullstack:
-
-🚀 Buscando novos desafios no desenvolvimento web e mobile. <br/>
+##### BIO
+🚀 I'm currently working at **CliniSYS**<br/>
 💻 Minha stack: HTML/CSS/JavaScript, PHP e WordPress.<br/>
-📘 Estudando: ReactJS, Node.js, React Native.<br/>
+⚙️ I use: `.cs`, `.json`, `.js`, `.html`, `.css`, `.sql`, `.ts`, `.git` and a lot more! </br>
+📘 Learning all about **Open Source** and **DevOps** .<br/>
 📫 igorzollimsilveira@gmail.com<br/>
+💬 Ping me! Lets talk!
 
-<a href="https://igorzs.github.io/portfolio/" >
-    <img alt="portfolio" src="/imgs/portfolio-link.png" width="180" height="50">
-</a>
 <br/>
 
 <!--ÍCONES PROGRAMAÇÃO -->
@@ -34,6 +24,32 @@ Sou Desenvolvedor Fullstack:
 <img style="margin: 7px;" src="/imgs/linux.png" alt="linux" width="50" height="50"/>
 </p>
 <!--[END]-->
+
+<div align="center">
+
+#### You can learn more about me
+
+</div>
+
+<!-- REDES SOCIAIS -->
+<div align="center">
+<a href="https://www.linkedin.com/in/igor-zollim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Igor's Linkedin" /></a>
+<a href="mailto:igorzollimsilveira@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Igor's E-Mail" /></a>
+<a href="https://www.instagram.com/igor.zollim/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Igor's Instagram" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=igorzs" >
+</div>
+<!--REDES SOCIAIS [END]-->
+
+<!-- PORTFOLIO -->
+<div align="center">
+    <a href="https://igorzs.github.io/portfolio/" >
+        <img alt="portfolio" src="https://img.shields.io/badge/Access_My_Portfolio-orange?style=for-the-badge&cacheSeconds=3600" width="180" height="50">
+    </a>
+</div
+<!-- PORTFOLIO [END]-->
+
+<br>
 
 <!--API GIT STATUS-->
 <img width="480px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorzs&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="relirk"/>
