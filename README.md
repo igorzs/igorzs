@@ -14,23 +14,20 @@ I'm brazilian Full-Stack Developer
 ##### Latest XP
 
 [<img align="left" height="94px" width="130px" alt="Orni" src="/imgs/clinisys-logo.png"/>](https://www.linkedin.com/company/clinisysbr/)
-
 **Full-Stack Developer** \
 [**CliniSYS**](https://www.linkedin.com/company/clinisysbr/) • Full-Time \
 Techs/Frameworks: `SQL`, `API REST`, `PHP`, `Web Apps`, `JavaScript`, `Automatizations` and others.
 
-[<img align="left" height="94px" width="130px" alt="Lydia" src="/imgs/lydia-logo.png"/>](https://www.linkedin.com/company/lydia-sistemas-inteligentes/)
-
 <br/>
 
+[<img align="left" height="94px" width="130px" alt="Lydia" src="/imgs/lydia-logo.png"/>](https://www.linkedin.com/company/lydia-sistemas-inteligentes/)
 **Full-Stack Developer** \
 [**Lydia Sistemas Inteligentes**](https://www.linkedin.com/company/lydia-sistemas-inteligentes/) • Full-Time \
 Techs/Frameworks: `Laravel`, `SQL`, `API REST`, `PHP`, `Azure Cloud`, `Linux`, `Chatbots for WhatsApp`, `Web Crawling with Selenium`, `Asterisk`, `Automatizations` and others.
 
-[<img align="left" height="94px" width="130px" alt="Orni" src="/imgs/orni-logo.png"/>](https://www.linkedin.com/company/orni-venture-builder/)
-
 <br/>
 
+[<img align="left" height="94px" width="130px" alt="Orni" src="/imgs/orni-logo.png"/>](https://www.linkedin.com/company/orni-venture-builder/)
 **Support Analyst - Full-Stack Developer** \
 [**Orni**](https://www.linkedin.com/company/orni-venture-builder/) • Full-Time \
 Techs/Frameworks: `WordPress`, `SQL`, `API REST`, `PHP`, `Azure Cloud`, `Web Apps`, `MVC`, `Linux Server` and others.
